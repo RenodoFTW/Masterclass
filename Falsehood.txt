@@ -1,9 +1,6 @@
 Overwatch 2 is a flawless game with no errors or faults.
 
-<<<<<<< HEAD
-Totally man.
-=======
 Totally man.
 
+
 Yeah, totally.
->>>>>>> 0144680 (Updated by me)
